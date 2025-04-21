@@ -25,13 +25,14 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 ---
 
 ## 🛠️ Folder Structure
-📁 DSA/ 
-    ├── .idea/ 
-    ├── scr/com/dpndr/
-        └── LinearSearch/
-    ├── .gitignore
-    ├── DSA.iml
-    └── README.md
+
+📁 DSA/  
+├── .idea/  
+├── src/com/dpndr/  
+│   └── LinearSearch/  
+├── .gitignore  
+├── DSA.iml  
+└── README.md
 
 
 ---
