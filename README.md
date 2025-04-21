@@ -20,6 +20,7 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 ## 📖 Topics Covered
 
 - Arrays
+- LinearSearch
 - And more as I progress!
 
 ---
@@ -29,6 +30,8 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 📁 DSA/  
 ├── .idea/  
 ├── src/com/dpndr/  
+│   └── _basics/  
+│   └── arrays/  
 │   └── LinearSearch/  
 ├── .gitignore  
 ├── DSA.iml  
