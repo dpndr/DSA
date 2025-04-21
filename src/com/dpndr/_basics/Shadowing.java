@@ -1,4 +1,4 @@
-package com.dpndr.basics;
+package com.dpndr._basics;
 
 public class Shadowing {
 ///     It doesn't take place in method It's for class variables

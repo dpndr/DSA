@@ -1,4 +1,4 @@
-package com.dpndr.basics;
+package com.dpndr._basics;
 
 public class Q_ArmstrongNo {
     public static void main(String[] args) {

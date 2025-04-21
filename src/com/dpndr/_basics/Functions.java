@@ -1,4 +1,4 @@
-package com.dpndr.basics;
+package com.dpndr._basics;
 
 import java.util.Scanner;
 
