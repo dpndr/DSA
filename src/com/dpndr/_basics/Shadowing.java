@@ -1,14 +1,17 @@
 package com.dpndr._basics;
 
+/**
+ * Class demonstrating variable shadowing concept in Java
+ */
 public class Shadowing {
-///     It doesn't take place in method It's for class variables
-    static int x = 90;
+    // Class level static variable
+    static int x = 90;  // Initial value of x
 
     public static void main(String[] args) {
-        System.out.println(x);
-        int x; // The class variable is shadowed here
-//        System.out.println(x); //This will give an error
-        x = 40;
-        System.out.println(x); // this will give the value initialized in the lower scope
+        System.out.println(x);  // Prints class level x (90)
+        int x;  // Local variable shadows class level x
+        // System.out.println(x);  // Error - local x not initialized yet
+        x = 40;  // Initialize local x
+        System.out.println(x);  // Prints local x (40)
     }
 }
