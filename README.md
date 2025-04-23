@@ -21,6 +21,7 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 
 - Arrays
 - LinearSearch
+- BinarySearch
 - And more as I progress!
 
 ---
@@ -33,6 +34,7 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 │   └── _basics/  
 │   └── arrays/  
 │   └── LinearSearch/  
+│   └── BinarySearch/  
 ├── .gitignore  
 ├── DSA.iml  
 └── README.md
@@ -65,11 +67,14 @@ Stay tuned for more updates. 🚀
 
 ## 📬 Connect with Me
 
-- **GitHub:** [github.com/dpndr](https://github.com/dpndr)
-- **LinkedIn:** [linkedin.com/in/dpndr](https://linkedin.com/in/dpndr)
+- **GitHub[/dpndr](https://github.com/dpndr)**
+- **LinkedIn[/dpndr](https://linkedin.com/in/dpndr)**
+- **X[/dpndr_05](https://x.com/dpndr_05)**
 
 ---
 
-**Let's crack DSA together! 💪**
+**Let's crack DSA together! 💪**  
+
+**Course Followed - [DSA Java Bootcamp by Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=oggr2Dk5mPvGMhUE)**
 
 
