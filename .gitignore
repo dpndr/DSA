@@ -28,5 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea
-DSA.iml
+!**/.idea
+!**/DSA.iml
