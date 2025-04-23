@@ -29,14 +29,13 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 ## 🛠️ Folder Structure
 
 📁 DSA/  
-├── .idea/  
+├── questions/  
 ├── src/com/dpndr/  
-│   └── _basics/  
-│   └── arrays/  
-│   └── LinearSearch/  
-│   └── BinarySearch/  
-├── .gitignore  
-├── DSA.iml  
+│ └── _basics/  
+│ └── arrays/  
+│ └── LinearSearch/  
+│ └── BinarySearch/  
+├── .gitignore
 └── README.md
 
 
@@ -73,8 +72,10 @@ Stay tuned for more updates. 🚀
 
 ---
 
-**Let's crack DSA together! 💪**  
+**Let's crack DSA together! 💪**
 
-**Course Followed - [DSA Java Bootcamp by Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=oggr2Dk5mPvGMhUE)**
+**Course
+Followed - [DSA Java Bootcamp by Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=oggr2Dk5mPvGMhUE)
+**
 
 
