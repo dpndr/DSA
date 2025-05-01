@@ -3,7 +3,7 @@ package com.dpndr.binarySearch;
 /**
  * Order-agnostic binary search implementation that works with both ascending and descending sorted arrays
  */
-public class orderAgnosticBS {
+public class OrderAgnosticBS {
     public static void main(String[] args) {
         int[] ascArr = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};  // Ascending order array for testing
         int[] descArr = {20, 18, 16, 14, 12, 10, 8, 6, 4, 2}; // Descending order array for testing

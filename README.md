@@ -33,8 +33,8 @@ This space is dedicated to tracking my growth, projects, and understanding of DS
 ├── src/com/dpndr/  
 │ └── _basics/  
 │ └── arrays/  
-│ └── LinearSearch/  
-│ └── BinarySearch/  
+│ └── linearSearch/  
+│ └── binarySearch/  
 ├── .gitignore
 └── README.md
 
